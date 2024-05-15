@@ -1,0 +1,218 @@
+[
+    {
+        "topicid": "Ankle",
+        "icon": "",
+        "sections": [
+            {
+                "title": "Anatomy",
+                "qa": [{
+                    "question": "",
+                    "answerArr": [
+                        {
+                            "type": "youtube",
+                            "videoId": "4hCS1O2LP_c"
+                        }
+                    ]
+                }]
+            },
+            {
+                "title": "Rehab Exercises",
+                "qa": [
+                    {
+                        "question": "Elementary Rehab",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "FpOz6ZtceAE",
+                                "name": "Non-weight Bearing Inversion"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intermediate exercise",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "UV8gOrHmuKc",
+                                "name": "Calf Raise"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intensive strengthening",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "wPZP8Bwxplo",
+                                "name": "Lateral Jumps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "imgUrl": ""
+    },
+    {
+        "topicid": "Back",
+        "icon": "",
+        "sections": [
+            {
+                "title": "Anatomy",
+                "qa": [{
+                    "question": "",
+                    "answerArr": [
+                        {
+                            "type": "youtube",
+                            "videoId": "lfiorcWqc_U"
+                        }
+                    ]
+                }]
+            },
+            {
+                "title": "Rehab Exercises",
+                "qa": [
+                    {
+                        "question": "Elementary Rehab",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "fcnv4gyMzf8",
+                                "name": "Cat cow"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intermediate exercise",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "vI6kwBrkKJQ",
+                                "name": "Prone T Raises"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intensive strengthening",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "qRcMROB1l_E",
+                                "name": "Single-Leg Romanian Deadlift"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "imgUrl": ""
+    },
+    {
+        "topicid": "Knee",
+        "icon": "",
+        "sections": [
+            {
+                "title": "Anatomy",
+                "qa": [{
+                    "question": "",
+                    "answerArr": [
+                        {
+                            "type": "youtube",
+                            "videoId": "mOtvA-dvD_w"
+                        }
+                    ]
+                }]
+            },
+            {
+                "title": "Rehab Exercises",
+                "qa": [
+                    {
+                        "question": "Elementary Rehab",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "l83R5PblSMA",
+                                "name": "Bodyweight Squats"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intermediate exercise",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "WCFCdxzFBa4",
+                                "name": "Step-Ups"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intensive strengthening",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "vq5-vdgJc0I",
+                                "name": "Single-Leg Squats (also known as Pistol Squats"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "imgUrl": ""
+    },
+    {
+        "topicid": "Shoulder",
+        "icon": "",
+        "sections": [
+            {
+                "title": "Anatomy",
+                "qa": [{
+                    "question": "",
+                    "answerArr": [
+                        {
+                            "type": "youtube",
+                            "videoId": "D3GVKjeY1FM"
+                        }
+                    ]
+                }]
+            },
+            {
+                "title": "Rehab Exercises",
+                "qa": [
+                    {
+                        "question": "Elementary Rehab",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "QN1oZVMMRjE",
+                                "name": "Shoulder Blade Squeeze"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intermediate exercise",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "fvAKsnr2e_I",
+                                "name": "Resistance Band Shoulder External Rotation"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Intensive strengthening",
+                        "answerArr": [
+                            {
+                                "type": "youtube",
+                                "videoId": "8rgurWd-PB8",
+                                "name": "Plank Shoulder Taps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "imgUrl": ""
+    }
+]
