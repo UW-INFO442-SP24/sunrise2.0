@@ -5,6 +5,7 @@ import Resources from './pages/Resources/Resources';
 import TopicPage from './pages/TopicPage/TopicPage';
 import topicData from './data/topicData.json';
 import Quiz from './pages/Quiz/Quiz';
+import Diagram from './pages/Diagram/Diagram';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 
 function App() {
@@ -15,8 +16,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="Home" element={<Home />} />
-          <Route path="Resources" element={<Resources />} />
           <Route path="Quiz" element={<Quiz />} />
+          <Route path="Diagram" element={<Diagram />} />
+          <Route path="Resources" element={<Resources />} />
           {topicData.map((topic, index) => (
             <Route key={index} path={`/${topic.topicid}`} element={<TopicPage topic={topic} />} />
           ))}
