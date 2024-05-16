@@ -1,4 +1,5 @@
-import "./Home.css";
+import '../../index.css';
+
 function home () {
   return (
       <div className = "home">

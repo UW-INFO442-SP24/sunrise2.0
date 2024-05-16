@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function ResourceNav({ topics, currentTopicId }) {
   return (
-    <nav>
+    <nav className='top-center-nav'>
       <ul style={{ listStyle: 'none', padding: 0 }}>
         {topics.map((topic, index) => (
           <li key={index} style={{ display: 'inline-block', marginRight: '10px' }}>

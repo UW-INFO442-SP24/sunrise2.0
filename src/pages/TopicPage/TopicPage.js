@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import ResourceNav from '../../Components/ResourceNav';
 import topicData from '../../data/topicData.json';
+import '../../index.css';
 
 function TopicPage({ topic }) {
   const { topicid } = useParams();
@@ -9,23 +10,22 @@ function TopicPage({ topic }) {
   if (!topic) return <div>Topic not found</div>;
 
   return (
-    <div>
+    <div className="container">
       <ResourceNav topics={topicData} currentTopicId={topicid} />
-      <h2>{topic.topicid}</h2>
+      <h1>{topic.topicid}</h1>
       {topic.sections.map((section, idx) => (
         <div key={idx}>
-          {section.title && <h3>{section.title}</h3>}
+          {section.title && <h2>{section.title}</h2>}
           <ul>
             {section.qa.map((qa, i) => (
               <li key={i}>
-                {qa.question && <p><strong>{qa.question}</strong></p>}
+                {qa.question && <h3><strong>{qa.question}</strong></h3>}
                 {qa.answerArr.map((answer, j) => (
                   <div key={j}>
-                    {answer.type === 'url' ? (
-                      <span dangerouslySetInnerHTML={{ __html: answer.key }} />
-                    ) : answer.type === 'youtube' ? (
+                    {answer.type === 'youtube' && (
                       <div>
                         <p>{answer.name}</p>
+                        {answer.description && <p>{answer.description}</p>}
                         <iframe
                           width="560"
                           height="315"
@@ -34,11 +34,8 @@ function TopicPage({ topic }) {
                           allowFullScreen
                         ></iframe>
                       </div>
-                    ) : null}
-                    {/* Display images and videos under the "Anatomy" section */}
-                    {section.title === 'Anatomy' && answer.type === 'image' ? (
-                      <img src={answer.url} alt="Image" />
-                    ) : section.title === 'Anatomy' && answer.type === 'video' ? (
+                    )}
+                    {section.title === 'Anatomy' && answer.type === 'video' ? (
                       <iframe
                         width="560"
                         height="315"
