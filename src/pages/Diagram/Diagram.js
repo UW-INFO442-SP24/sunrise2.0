@@ -1,12 +1,12 @@
+
+
 import React from 'react';
 import './diagram.css';
 
 const Diagram = () => {
   return (
     <div className="image-container">
-      <h1 className="diagram-title">Healthlete Diagram</h1>
-      <h2 className="instructions">Hover over a body part susceptible to a volleyball injury</h2>
-      <img src="img/bodyDiagram.png" alt="Human Body" useMap="#bodymap" />
+      <img src="img/bodyDiagramHighlight.png" alt="Human Body" useMap="#bodymap" />
       <map name="bodymap">
         <area shape="rect" coords="150,50,230,150" href="https://www.webmd.com/pain-management/shoulder-pain" alt="Shoulders" target="_blank" />
         <area shape="rect" coords="140,400,210,470" href="https://www.webmd.com/pain-management/knee-pain" alt="Knees" target="_blank" />
