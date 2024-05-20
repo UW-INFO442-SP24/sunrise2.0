@@ -1,6 +1,8 @@
 /* BodyMap.css */
 .image-container {
+  margin-top: 100px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   position: relative;
@@ -9,4 +11,19 @@
 .image-container img {
   max-width: 100%;
   height: auto;
+}
+
+.diagram-title {
+  margin-bottom: 10px;
+  font-size: 24px;     
+  text-align: center;  
+}
+
+.instructions {
+  margin-top: 10px;    
+  font-size: 18px;     
+  text-align: center;  
+  color: #666;         
+  max-width: 600px; 
+  padding: 30px;
 }
