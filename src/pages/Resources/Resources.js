@@ -6,6 +6,7 @@ function Resources() {
   return (
     <div className="resources">
       <ResourceNav topics={topicData} />
+      <p>Get started by picking one of the more common injuries for volleyball</p>
     </div>
   );
 }
