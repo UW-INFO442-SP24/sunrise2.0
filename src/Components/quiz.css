@@ -75,3 +75,35 @@
 .summary a:hover {
   text-decoration: underline;
 }
+/* Mobile */
+@media (max-width: 600px) {
+  .quiz-container {
+    max-width: 100%;
+    margin: 0 10px;
+  }
+
+  .quiz-question {
+    font-size: 24px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+  }
+
+  .quiz-options button {
+    padding: 8px 15px;
+    font-size: 20px;
+  }
+
+  .quiz-nav-buttons button {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+
+  .summary {
+    font-size: 20px;
+  }
+
+  .chart-container {
+    margin-top: 50px;
+  }
+
+}
