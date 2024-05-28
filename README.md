@@ -1,8 +1,6 @@
 # Healthletes
 
-### Team Sunrise
-
-Caleb Jeyyken, Junna Cao, Sabrina Jahed, Nathan Lee, Gracie Di
+Team Sunrise: Caleb Jeyyken, Junna Cao, Sabrina Jahed, Nathan Lee, Gracie Di
 
 ## Published Site
 
