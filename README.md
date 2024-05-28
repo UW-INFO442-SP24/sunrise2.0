@@ -4,7 +4,7 @@ Team Sunrise: Caleb Jeyyken, Junna Cao, Sabrina Jahed, Nathan Lee, Gracie Di
 
 ## Published Site
 
-Link to our published web app: 
+Our published web app can be viewed here: 
 
 ## Mission
 
