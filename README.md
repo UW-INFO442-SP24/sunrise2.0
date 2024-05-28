@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# Healthletes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Test Test
-## Available Scripts
+#### Team Sunrise
 
-In the project directory, you can run:
+Caleb Jeyyken, Junna Cao, Sabrina Jahed, Nathan Lee, Gracie Di
 
-### `npm start`
+### Mission
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Our project aims to address the United Nations Sustainable Development Goal 3: Good Health and Wellbeing, with a specific focus on volleyball athletes who are underprivileged or recreational players. Volleyball, a popular sport enjoyed by many, often requires players to independently acquire knowledge about maintaining their physical health to optimize performance. This includes understanding injury prevention, mobility, and strengthening exercises. Currently, resources like physical therapy or rehabilitation clinics are available to address these needs, but they can be costly and inaccessible to all players. Additionally, while there is a wealth of information available online, much of it is not specific to volleyball and can be overwhelming, particularly for younger or novice athletes. Healthletes aims to bridge this knowledge gap by providing a free, tailored resource for all volleyball players, so that they can confidently step onto the court and perform their best. It is important to note that Healthletes is intended to be supplementary and should not be considered professional medical advice.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
 
-### `npm test`
+1. **Quiz:** Determines which areas of the body the player should focus on based on their background and current information.
+2. **Interactive Diagram:** Educational anatomy diagram with clickable body parts linking to relevant resources.
+3. **Resources:** Videos and written instructions for exercises that target key areas of the body for volleyball players. 
+4. **Navigation Bar:** Located at the top for quick navigation through the quiz, diagram, and resources. 
+5. **About Page:** Information regarding the purpose and origins of Healthletes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
