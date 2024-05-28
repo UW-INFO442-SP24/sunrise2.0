@@ -33,6 +33,8 @@ Built with:
 
 ## Testing Protocol
 
+Testing protocol can be found [here](/Healthletes%20Testing%20Protocol.pdf)
+
 ## Bugs
 
 ## References
