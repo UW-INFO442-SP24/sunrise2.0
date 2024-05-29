@@ -35,8 +35,8 @@ Built with:
 ## Testing Protocol
 
 Testing protocol can be found [here](/Healthletes%20Testing%20Protocol.pdf)
-| **Feature 1: Quiz** | **Feature 2: Body Diagram** | **Feature 3:Resource** |
-| --- | --- | --- | 
+| --- || **Feature 1: Quiz** | **Feature 2: Body Diagram** | **Feature 3:Resource** |
+| --- | --- | --- | --- |
 | **Requirement Specification** | <p>Answer a series of targeted questions, including inquiries about playing frequency, areas of tenderness after practice, previous harm history, etc. The quiz provides valuable insights into the body's needs and potential areas for improvement.<p>Upon completing the quiz, receive a personalized result accompanied by a detailed bar chart and explanation. Our comprehensive analysis highlights areas of body part that may require additional rehabilitation or exercise, based on user input.
  | <p>xxx | <p>xxx | 
 | **Testing Cases** | <p>xxx | <p>xxx | <p>xxx | 
