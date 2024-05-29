@@ -35,6 +35,12 @@ Built with:
 ## Testing Protocol
 
 Testing protocol can be found [here](/Healthletes%20Testing%20Protocol.pdf)
+|    | **Feature 1: Quiz** | **Feature 2: Body Diagram** | **Feature 3:Resource** |
+| --- | --- | --- | |  
+| **Requirement Specification** | <p>xxx | <p>xxx | <p>xxx | 
+| **Testing Cases** | <p>xxx | <p>xxx | <p>xxx | 
+| **Expected Results** | <p>xxx | <p>xxx | <p>xxx | 
+| **Expected Deficiency** | <p>xxx. | <p>N/A| <p>xxx |
 
 ## Bugs
 
