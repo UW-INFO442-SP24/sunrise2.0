@@ -14,7 +14,7 @@ function Navbar() {
     <div className="navbar">
       <div className="logo">
         <NavLink to="/">
-          <img src="img/logo.png" className="logo-icon" alt="Logo" />
+          <img src="img/volleyBallPic.png" className="logo-icon" alt="Logo" />
         </NavLink>
       </div>
       <button className="hamburger" onClick={toggleMenu}>

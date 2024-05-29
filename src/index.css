@@ -9,7 +9,7 @@
     flex-shrink: 0;
   }
   .HomePage-title{
-    color: #000;
+    color: #000000;
     margin-top: 8%;
     margin-left: 10%;
     margin-right: 10%;
@@ -18,20 +18,45 @@
     font-style: italic;
     font-weight: 600;
     line-height: normal;
+    background-color: #ffffff79;
+    border-radius: 30px;
   }
   .HomePage-paragraph{
-    margin-top: 8%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-top: 5%;
   }
-  .btn{
-    width: 165px;
-    height: 52px;
-    flex-shrink: 0;
-    border-radius: 50px;
-    background: #F9FCFA;
-    margin: 20px 20px;  
+  
+  .home {
+    position: relative;
   }
+  
+  .img-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 150%;
+    overflow: hidden;
+  }
+  
+  .HomePage-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .container {
+    position: relative;
+    z-index: 1;
+  }
+
+  .footer {
+    font-size: 12px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
   
 /* Navbar */
 .navbar {
@@ -41,7 +66,7 @@
     width: 100%;
     height: 100px;
     flex-shrink: 0;
-    background-color: #B7E4C7;
+    background-color: #9a9ac6fe;
   }
 
   .btn {
