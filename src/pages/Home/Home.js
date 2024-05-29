@@ -4,7 +4,13 @@ function Home() {
   return (
     <div className="home">
       <div className="img-content">
-        <img src="/img/homeBg.jpg" className="HomePage-img" alt="Homepage Background" />
+        <img
+          src="/img/homeBg.jpg"
+          className="HomePage-img"
+          alt="Homepage Background"
+          width="1920"
+          height="1080"
+        />
       </div>
       <div className="container">
         <div className="row">

@@ -25,6 +25,8 @@
 
 .HomePage-paragraph {
   margin-top: 5%;
+  background-color: #ffffff79;
+  border-radius: 30px;
 }
 
 .home {
@@ -52,11 +54,13 @@
 }
 
 .footer {
-  font-size: 12px;
+  font-size: 10px;
   position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 90%;
   text-align: center;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 
@@ -135,7 +139,7 @@
   .navbar {
     top: 0;
     height: 10%;
-    width: 110%;
+    width: 100%;
     z-index: 1000;
     overflow: hidden;
   }
@@ -198,7 +202,9 @@ iframe {
 
 .Resource-img {
   width: 40%;
-  height: 40%;
+  height: auto;
+  max-width: 40%;
+  max-height: 40%;
   object-fit: cover;
   margin: auto;
   display: block;
