@@ -25,7 +25,7 @@
                                 "type": "youtube",
                                 "videoId": "FpOz6ZtceAE",
                                 "name": "Non-weight Bearing Inversion",
-                                "description": ""
+                                "description": "Find a comfortable chair or sit on the floor with your leg extended. Extend your leg so that your foot is off the ground. Slowly rotate your foot inward, moving the sole towards the midline of your body. Hold the position for a few seconds, feeling the stretch on the outside of your ankle."
                             }    
                         ]
                     },
@@ -36,7 +36,7 @@
                                 "type": "youtube",
                                 "videoId": "UV8gOrHmuKc",
                                 "name": "Calf Raise",
-                                "description": ""
+                                "description": "Keep your feet shoulder-width apart and your hands by your sides or on your hips for balance. Slowly raise your heels off the ground, balancing on the balls of your feet. Pause at the top for a moment, feeling the contraction in your calves. Slowly lower your heels back to the starting position."                            
                             }
                         ]
                     },
@@ -46,8 +46,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "wPZP8Bwxplo",
-                                "name": "Lateral Jumps",
-                                "description": ""
+                                "name": "Lateral Jumps", 
+                                "description": "Stand with your feet shoulder-width apart and your knees slightly bent. Bend your knees a bit more and push your hips back slightly, getting into a quarter squat position. Explosively push off from both feet and jump to the side (left or right), landing softly on both feet. As you land, bend your knees to absorb the impact and immediately prepare for the next jump. Jump back to the starting position or to the opposite side, maintaining a continuous and rhythmic movement."                                
                             }
                         ]
                     }
@@ -67,7 +67,7 @@
                     "answerArr": [
                         {
                             "type": "youtube",
-                            "videoId": "lfiorcWqc_U",
+                            "videoId": "lfiorcWqc_U"
                  
                         }
                     ]
@@ -125,7 +125,7 @@
                     "answerArr": [
                         {
                             "type": "youtube",
-                            "videoId": "mOtvA-dvD_w",
+                            "videoId": "mOtvA-dvD_w"
                         }
                     ]
                 }]
