@@ -32,8 +32,7 @@ Built with:
 - Firebase
 
 ## Testing Protocol
-
-Testing protocol can be found [here](/Healthletes%20Testing%20Protocol.pdf)
+<!-- Testing protocol can be found [here](/Healthletes%20Testing%20Protocol.pdf) -->
 | | **Feature 1: Quiz** | **Feature 2: Body Diagram** | **Feature 3: Resource** | **Feature 4: Navigation Bar** |
 | --- | --- | --- | --- | --- |
 | **Requirement Specification** | <p>Answer a series of targeted questions, including inquiries about playing frequency, areas of tenderness after practice, previous harm history, etc. The quiz result provides valuable insights into the body's needs and potential areas for improvement. <p>Upon completing the quiz, receive a personalized result accompanied by a detailed bar chart and explanation. Our comprehensive analysis highlights areas of body part that may require additional rehabilitation or exercise, based on user input.| <p>This diagram is designed to help uses easily access targeted rehabilitation and exercise resources for specific areas of the body. By clicking on a particular part of the diagram, such as the knee, shoulder, ankle, or back, user will be taken directly to a dedicated resource page filled with exercises, and rehabilitation tips tailored to that area. | <p>By clicking on specific labels such as knee, shoulder, ankle, or back, users will be directed to a wealth of relevant resources tailored to that body part. Each section provides video tutorials to help users understand and address needs. Additionally, there is an anatomy video to enhance the knowledge of how the body works and how best to support it. | This is designed to provide users with quick and easy access to all the essential features of our website. With a simple click, users can directed to main pages such as the Home Page, Interactive Body Diagram, Quiz, and Resource Page |
@@ -48,3 +47,5 @@ Testing protocol can be found [here](/Healthletes%20Testing%20Protocol.pdf)
 
 
 ## References
+- The home backgraound and resource image are from Vecteezy.com
+- 
