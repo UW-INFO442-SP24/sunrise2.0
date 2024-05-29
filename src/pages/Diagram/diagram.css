@@ -1,4 +1,3 @@
-/* BodyMap.css */
 .image-container {
   margin-top: 100px;
   display: flex;
@@ -26,4 +25,80 @@
   color: #666;         
   max-width: 600px; 
   padding: 30px;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  z-index: 1;
+}
+
+.highlight {
+  background-color: rgba(255, 255, 0, 0.5);
+}
+
+.area-hover {
+  position: absolute;
+  pointer-events: none;
+}
+
+.area-hover.shoulder {
+  top: 121px;
+  left: 61px;
+  width: 231px;
+  height: 44px;
+}
+
+.area-hover.shoulder-right {
+  top: 121px;
+  left: 414px;
+  width: 230px;
+  height: 47px;
+}
+
+.area-hover.back {
+  top: 181px;
+  left: 479px;
+  width: 108px;
+  height: 138px;
+}
+
+.area-hover.knee-left {
+  top: 522px;
+  left: 121px;
+  width: 114px;
+  height: 45px;
+}
+
+.area-hover.knee-right {
+  top: 520px;
+  left: 474px;
+  width: 114px;
+  height: 45px;
+}
+
+.area-hover.ankle-left {
+  top: 685px;
+  left: 116px;
+  width: 114px;
+  height: 45px;
+}
+
+.area-hover.ankle-right {
+  top: 686px;
+  left: 482px;
+  width: 114px;
+  height: 45px;
+}
+.quiz-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
 }
