@@ -21,9 +21,9 @@ function Home() {
               <br />
               Your ultimate destination for volleyball rehabilitation and exercise solutions! <br />
               Whether you're a professional athlete recovering from an injury, <br />
-              a recreational player looking to prevent injuries, or a coach seeking expert guidance,  <br />
+              a recreational player looking to prevent injuries, or a coach seeking guidance,  <br />
               we're here to support your journey to peak performance on the court. <br />
-              Our comprehensive approach combines cutting-edge rehabilitation techniques, <br />
+              Our comprehensive approach combines rehabilitation tutorial, <br />
               body diagram, and quiz to help you know your body better, <br />
               overcome challenges, enhance your skills, and stay injury-free. <br />
             </p>
