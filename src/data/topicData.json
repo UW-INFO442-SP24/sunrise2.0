@@ -25,8 +25,8 @@
                                 "type": "youtube",
                                 "videoId": "FpOz6ZtceAE",
                                 "name": "Non-weight Bearing Inversion",
-                                "description": "- quick try description\nfdsdf"
-                            }
+                                "description": ""
+                            }    
                         ]
                     },
                     {
@@ -35,7 +35,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "UV8gOrHmuKc",
-                                "name": "Calf Raise"
+                                "name": "Calf Raise",
+                                "description": ""
                             }
                         ]
                     },
@@ -45,7 +46,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "wPZP8Bwxplo",
-                                "name": "Lateral Jumps"
+                                "name": "Lateral Jumps",
+                                "description": ""
                             }
                         ]
                     }
@@ -65,7 +67,8 @@
                     "answerArr": [
                         {
                             "type": "youtube",
-                            "videoId": "lfiorcWqc_U"
+                            "videoId": "lfiorcWqc_U",
+                 
                         }
                     ]
                 }]
@@ -79,7 +82,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "fcnv4gyMzf8",
-                                "name": "Cat cow"
+                                "name": "Cat cow",
+                                "description": "Start on your hands and knees, with your wrists directly under your shoulders and your knees under your hips. Inhale, arching your back and lifting your head and tailbone towards the ceiling (Cow Pose). Exhale, rounding your spine and tucking your chin to your chest (Cat Pose). Repeat this sequence for several repetitions, moving with your breath."
                             }
                         ]
                     },
@@ -89,7 +93,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "vI6kwBrkKJQ",
-                                "name": "Prone T Raises"
+                                "name": "Prone T Raises",
+                                "description": "Lie face down on an exercise mat with your arms extended overhead, forming a T shape with your body. Engage your back muscles and lift your arms off the floor, keeping them straight, until they are in line with your body. Hold for a few seconds at the top, then lower back down with control. Focus on squeezing your shoulder blades together throughout the movement. Repeat for several repetitions, ensuring smooth and controlled movement."
                             }
                         ]
                     },
@@ -99,7 +104,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "qRcMROB1l_E",
-                                "name": "Single-Leg Romanian Deadlift"
+                                "name": "Single-Leg Romanian Deadlift",
+                                "description": "Stand with your feet hip-width apart, holding your arms by your sides or clasped behind your head. Shift your weight onto one leg and slightly bend the knee. Hinge forward at the hips while lifting the non-weight-bearing leg straight behind you, keeping your back flat and forming a straight line from head to heel. Lower your torso until it is parallel to the floor, maintaining a neutral spine. Engage your glutes and hamstrings to return to the starting position, keeping your balance. Repeat for several repetitions on each leg, focusing on stability and control throughout the movement."
                             }
                         ]
                     }
@@ -119,7 +125,7 @@
                     "answerArr": [
                         {
                             "type": "youtube",
-                            "videoId": "mOtvA-dvD_w"
+                            "videoId": "mOtvA-dvD_w",
                         }
                     ]
                 }]
@@ -133,7 +139,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "l83R5PblSMA",
-                                "name": "Bodyweight Squats"
+                                "name": "Bodyweight Squats",
+                                "description": "Stand with your feet shoulder-width apart, toes slightly turned out. Engage your core muscles and keep your chest up. Lower your body by bending your knees and hips, as if you're sitting back into a chair. Keep your knees aligned with your toes and avoid letting them collapse inward. Lower yourself until your thighs are parallel to the ground or as far as comfortable. Push through your heels to return to the starting position. Aim for 2-3 sets of 10-15 repetitions with good form."
                             }
                         ]
                     },
@@ -143,7 +150,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "WCFCdxzFBa4",
-                                "name": "Step-Ups"
+                                "name": "Step-Ups",
+                                "description": "Stand in front of a step or platform, such as a sturdy bench or aerobic step, with your feet hip-width apart. Step up onto the platform with one foot, pressing through the heel to lift your body up. Bring the opposite leg up to meet the first leg on the platform. Step back down with the same foot, then the other, returning to the starting position. Alternate legs with each repetition. Aim for 2-3 sets of 10-12 repetitions on each leg."
                             }
                         ]
                     },
@@ -153,7 +161,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "vq5-vdgJc0I",
-                                "name": "Single-Leg Squats (also known as Pistol Squats"
+                                "name": "Single-Leg Squats (also known as Pistol Squats",
+                                "description": "Stand on one leg with the other leg extended forward. Keep your chest up, engage your core, and maintain a neutral spine. Lower your body by bending the knee of the supporting leg, pushing your hips back as if sitting into a chair. Keep your non-supporting leg extended in front of you throughout the movement. Lower down as far as you can while maintaining balance and control. Push through the heel of the supporting leg to return to the starting position. Aim for 2-3 sets of 6-8 repetitions on each leg."
                             }
                         ]
                     }
@@ -187,7 +196,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "QN1oZVMMRjE",
-                                "name": "Shoulder Blade Squeeze"
+                                "name": "Shoulder Blade Squeeze",
+                                "description": "Stand or sit with your back straight and your arms by your sides. Squeeze your shoulder blades together as if you're trying to hold a pencil between them. Hold the squeeze for 3-5 seconds, then relax. Repeat for 10-15 repetitions."
                             }
                         ]
                     },
@@ -197,7 +207,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "fvAKsnr2e_I",
-                                "name": "Resistance Band Shoulder External Rotation"
+                                "name": "Resistance Band Shoulder External Rotation",
+                                "description": "Attach a resistance band to a sturdy anchor at waist height. Stand perpendicular to the anchor point with your elbow bent at 90 degrees and your forearm parallel to the ground. Hold the band in your hand closest to the anchor. Keeping your elbow close to your side, rotate your forearm away from your body against the resistance of the band. Slowly return to the starting position. Aim for 2-3 sets of 10-12 repetitions on each arm."
                             }
                         ]
                     },
@@ -207,7 +218,8 @@
                             {
                                 "type": "youtube",
                                 "videoId": "8rgurWd-PB8",
-                                "name": "Plank Shoulder Taps"
+                                "name": "Plank Shoulder Taps",
+                                "description": "Start in a plank position, with your hands directly under your shoulders and your body in a straight line from head to heels. Keeping your core engaged to prevent rotation, lift one hand off the ground and tap the opposite shoulder. Return the hand to the starting position and repeat on the other side. Continue alternating sides for 10-15 repetitions on each side."
                             }
                         ]
                     }

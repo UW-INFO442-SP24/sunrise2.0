@@ -31,7 +31,6 @@ Built with:
 - HTML
 - CSS
 - Firebase
-- Tailwind
 
 ## Testing Protocol
 
