@@ -48,4 +48,4 @@ Built with:
 
 ## References
 - The home backgraound and resource image are from Vecteezy.com
-- 
+- The human anatomy muscle diagram is from Pinterest.com
