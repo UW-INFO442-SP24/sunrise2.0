@@ -23,8 +23,14 @@
   border-radius: 30px;
 }
 
+.subtitle {
+  font-size: 30px;
+  font-family: "sans-serif";
+}
+
 .HomePage-paragraph {
   margin-top: 5%;
+  margin-bottom: 5%;
   background-color: #ffffff79;
   border-radius: 30px;
 }

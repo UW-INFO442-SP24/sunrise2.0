@@ -6,7 +6,7 @@ function Resources() {
   return (
     <div className="resources">
       <ResourceNav topics={topicData} />
-      <p><b>Get started by picking one of the body part to explore</b></p>
+      <p><b>Get started by picking one body part to explore on the bar above.</b></p>
       <img src="/img/resourceImg.jpg" className="Resource-img" alt="person hit a volleyball" />
     </div>
   );

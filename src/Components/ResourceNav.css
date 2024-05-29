@@ -1,9 +1,9 @@
 .top-center-nav {
-  background-color: #e6e6fa; /* Light purple background */
+  background-color: #e6e6fa;
   padding: 10px;
   text-align: center;
   width: 100%;
-  box-sizing: border-box; /* Ensure padding doesn't affect the width */
+  box-sizing: border-box;
 }
 
 .nav-list {
@@ -11,6 +11,7 @@
   padding: 0;
   margin: 0;
   display: flex;
+  position: relative;
   justify-content: center;
 }
 
@@ -27,4 +28,16 @@
 .nav-item.active .nav-link {
   font-weight: bold;
   color: black;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .nav-list {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-item {
+    margin: 10px 0;
+  }
 }

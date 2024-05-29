@@ -32,8 +32,8 @@
 }
 
 .quiz-options button:hover {
-  background-color: #d1ffd1;
-  border-color: #a1e1a1;
+  background-color: #d6d6e6ec;
+  border-color: #9a9ac6fe;
 }
 
 .quiz-options input[type="checkbox"] {
@@ -47,7 +47,7 @@
 }
 
 .quiz-nav-buttons button {
-  background-color: #a1e1a1;
+  background-color: #c4c4dcec;
   border: none;
   border-radius: 50px;
   padding: 10px 20px;
@@ -56,7 +56,7 @@
 }
 
 .quiz-nav-buttons button:hover {
-  background-color: #7ec77e;
+  background-color: #9a9ac6fe;
 }
 
 .chart-container {

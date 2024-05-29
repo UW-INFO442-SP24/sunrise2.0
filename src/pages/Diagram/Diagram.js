@@ -20,7 +20,7 @@ const Diagram = () => {
     <div className="image-container">
       <div className="quiz-container">
         <h1 className="diagram-title">Healthlete Diagram</h1>
-        <h2 className="instructions">Hover over a body part susceptible to a volleyball injury</h2>
+        <h2 className="instructions">Click a body part you want to explore.</h2>
       </div>
       <img src="img/bodyDiagramHighlight.png" alt="Human Body" useMap="#bodymap" />
       <map name="bodymap">
