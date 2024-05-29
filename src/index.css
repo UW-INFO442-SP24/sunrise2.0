@@ -69,6 +69,7 @@
   height: 100px;
   flex-shrink: 0;
   background-color: #9a9ac6fe;
+  z-index: 1000
 }
 
 .btn {
@@ -130,6 +131,19 @@
   .nav-links a {
     margin: 10px 0;
   }
+
+  .navbar {
+    top: 0;
+    height: 10%;
+    width: 110%;
+    z-index: 1000;
+    overflow: hidden;
+  }
+
+  .sticky-nav {
+    margin-top: 100px;
+    z-index: 1001;
+  }
 }
 
 /* topic page */
@@ -158,10 +172,20 @@ p {
   text-align: center;
 }
 
+.answer-description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
 iframe {
   display: block;
   margin: 20px auto;
 }
+
 
 /* ResourceNav Page */
 .resources p {
@@ -178,4 +202,11 @@ iframe {
   object-fit: cover;
   margin: auto;
   display: block;
+}
+
+.sticky-nav {
+  position: fixed;
+  top: 50px;
+  width: 100%;
+  z-index: 999;
 }

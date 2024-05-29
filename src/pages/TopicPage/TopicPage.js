@@ -11,7 +11,7 @@ function TopicPage({ topic }) {
 
   return (
     <div className="container">
-      <ResourceNav topics={topicData} currentTopicId={topicid} />
+      <ResourceNav topics={topicData} currentTopicId={topicid} className="sticky-nav" />
       <h1>{topic.topicid}</h1>
       {topic.sections.map((section, idx) => (
         <div key={idx}>
@@ -25,10 +25,16 @@ function TopicPage({ topic }) {
                     {answer.type === 'youtube' && (
                       <div>
                         <p>{answer.name}</p>
-                        {answer.description && <p>{answer.description}</p>}
+{answer.description && (
+  <div className="answer-description">
+    <p>{answer.description}</p>
+  </div>
+)}
+
                         <iframe
-                          width="560"
-                          height="315"
+                          title="YouTube Video"
+                          width="497"
+                          height="280"
                           src={`https://www.youtube.com/embed/${answer.videoId}`}
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                           allowFullScreen
@@ -37,8 +43,9 @@ function TopicPage({ topic }) {
                     )}
                     {section.title === 'Anatomy' && answer.type === 'video' ? (
                       <iframe
-                        width="560"
-                        height="315"
+                        title="Anatomy Video"
+                        width="497"
+                        height="280"
                         src={answer.url}
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
