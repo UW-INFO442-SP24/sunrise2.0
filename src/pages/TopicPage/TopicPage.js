@@ -30,27 +30,32 @@ function TopicPage({ topic }) {
                             <p>{answer.description}</p>
                           </div>
                         )}
-                        <iframe
-                          title={`YouTube Video: ${answer.name}`}
-                          width="497"
-                          height="280"
-                          src={`https://www.youtube.com/embed/${answer.videoId}`}
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                          allowFullScreen
-                        ></iframe>
+                        <div className="video-container">
+                          <iframe
+                            title={`YouTube Video: ${answer.name}`}
+                            src={`https://www.youtube.com/embed/${answer.videoId}`}
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                          ></iframe>
+                        </div>
                       </div>
                     )}
                     {section.title === 'Anatomy' && answer.type === 'video' && (
                       <div role="group" aria-labelledby={`anatomy-video-title-${i}-${j}`}>
                         <p id={`anatomy-video-title-${i}-${j}`}>{answer.name}</p>
-                        <iframe
-                          title={`Anatomy Video: ${answer.name}`}
-                          width="497"
-                          height="280"
-                          src={answer.url}
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                          allowFullScreen
-                        ></iframe>
+                        {answer.description && (
+                          <div className="answer-description" aria-labelledby={`anatomy-video-description-${i}-${j}`}>
+                            <p>{answer.description}</p>
+                          </div>
+                        )}
+                        <div className="video-container">
+                          <iframe
+                            title={`Anatomy Video: ${answer.name}`}
+                            src={`https://www.youtube.com/embed/${answer.videoId}`}
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                          ></iframe>
+                        </div>
                       </div>
                     )}
                   </div>
